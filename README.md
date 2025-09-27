@@ -18,10 +18,11 @@ You need to put the dataset in the Task504_All folder and meet the following dir
 
 ## Running
 
-Out model training：python tabNet_train.py
+Out model training：python train.py
+Out model testing: python inference.py
 
 ## Tip
 1.Two or more categories will require you to adjust the category code
-2.For traditional model testing, you only need to modify the fit function of the model to test it.
-3.For specific details regarding the referenced packages, please refer to the tabNet_train.py code.(The network core package is located within the tabnet folder.)
+2.For training and testing, you simply need to modify the corresponding paths.
+3.The specific network architecture is located within the unet3d folder.
 

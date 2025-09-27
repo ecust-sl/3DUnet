@@ -18,11 +18,11 @@ You need to put the dataset in the Task504_All folder and meet the following dir
 
 ## Running
 
-Out model training：python train.py
-Out model testing: python inference.py
+-Out model training：python train.py
+-Out model testing: python inference.py
 
 ## Tip
-1.Two or more categories will require you to adjust the category code
-2.For training and testing, you simply need to modify the corresponding paths.
-3.The specific network architecture is located within the unet3d folder.
+-1.Two or more categories will require you to adjust the category code
+-2.For training and testing, you simply need to modify the corresponding paths.
+-3.The specific network architecture is located within the unet3d folder.
 
